@@ -1,2 +1,2 @@
-# issuesForScryo
-only the issues for scryo will be done here, to test the functionality, since there are so many components
+# Scryo prototype issues
+This repository will hold all the issues for the Scryo prototype.
